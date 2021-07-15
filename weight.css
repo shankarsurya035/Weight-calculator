@@ -1,0 +1,18 @@
+#container{
+    background-color: red;
+    color: white;
+    margin-top: 60px;
+    padding-top: 20px;
+    padding-left: 30px;
+    box-shadow: 2px 3px 5px black;
+    position: relative;
+    overflow: hidden;
+}
+
+span{
+    color: rgb(67, 235, 226);
+}
+
+body{
+    background-color: blue;
+}
